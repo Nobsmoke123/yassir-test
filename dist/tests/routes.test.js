@@ -14,6 +14,9 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const supertest_1 = __importDefault(require("supertest"));
 const app_1 = __importDefault(require("./../src/app"));
+const dotenv_1 = __importDefault(require("dotenv"));
+// Initialize configuration
+dotenv_1.default.config();
 describe('Test the welcome page', () => {
     test(`Should return the text 'Welcome to >>> IQAir API.'`, () => __awaiter(void 0, void 0, void 0, function* () {
         const res = yield (0, supertest_1.default)(app_1.default).get('/').send();
@@ -23,19 +26,11 @@ describe('Test the welcome page', () => {
 });
 describe('Test the nearest city endpoint.', () => {
     test('Should return an object with a key of Result', () => __awaiter(void 0, void 0, void 0, function* () {
-        jest.setTimeout(10000);
         const lat = 40.73061;
         const long = -73.935242;
         const res = yield (0, supertest_1.default)(app_1.default).get(`/nearest-city/${lat}/${long}`);
         expect(res.body).toHaveProperty('Result');
         expect(res.statusCode).toEqual(200);
-        expect(res.body).toMatchObject({
-            aqicn: 63,
-            aqius: 86,
-            maincn: 'p1',
-            mainus: 'p2',
-            ts: '2022-10-12T10:00:00.000Z',
-        });
     }));
 });
 //# sourceMappingURL=routes.test.js.map

@@ -1,8 +1,9 @@
 import app from './app';
-import { Logger } from './config/logger';
-import { connection } from './config/db_connection';
-import { CronJob } from './jobs/iqair.job';
 import dotevn from 'dotenv';
+import { Logger } from './config/logger';
+import { CronJob } from './jobs/iqair.job';
+import { connection } from './config/db_connection';
+
 // Initialize configuration
 dotevn.config();
 

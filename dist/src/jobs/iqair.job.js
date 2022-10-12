@@ -34,18 +34,23 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.CronJob = void 0;
 const cron = __importStar(require("node-cron"));
+const logger_1 = require("./../config/logger");
 const iqair_service_1 = require("./../services/iqair.service");
 const cron_service_1 = require("./../services/cron.service");
-const logger_1 = require("./../config/logger");
 const iqair_service = new iqair_service_1.IQAirService();
 const cron_service = new cron_service_1.CronService();
 const CronJob = () => cron.schedule('* * * * *', () => __awaiter(void 0, void 0, void 0, function* () {
-    logger_1.Logger.info('Starting the cron job >>>');
-    const result = yield iqair_service.getAirQualityForParis();
-    logger_1.Logger.info('The result of the axios is: ', result);
-    const db_response = yield cron_service.saveData(result);
-    logger_1.Logger.info('The result of the db response is: ', result);
-    logger_1.Logger.info('Finished the cron job >>>');
+    try {
+        logger_1.Logger.info('Starting the cron job >>>');
+        const result = yield iqair_service.getAirQualityForParis();
+        logger_1.Logger.info('The result of the axios is: ', result);
+        const db_response = yield cron_service.saveData(result);
+        logger_1.Logger.info('The result of the db response is: ', result);
+        logger_1.Logger.info('Finished the cron job >>>');
+    }
+    catch (error) {
+        logger_1.Logger.error(error);
+    }
 }));
 exports.CronJob = CronJob;
 //# sourceMappingURL=iqair.job.js.map

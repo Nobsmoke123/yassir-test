@@ -17,9 +17,9 @@ export class IQAirController {
     const result = await iqair_service.getNearestCity(lat, long);
 
     if (result instanceof Error) {
-      return res.status(500).json({
+      return res.status(504).json({
         status: 'failed',
-        message: result.message,
+        message: 'Oops an error occured!',
       });
     }
 
@@ -34,9 +34,9 @@ export class IQAirController {
     const result = await cron_service.getMostPollutedData();
 
     if (result instanceof Error) {
-      return res.status(500).json({
+      return res.status(504).json({
         status: 'failed',
-        message: result.message,
+        message: 'Oops an error occured!',
       });
     }
 

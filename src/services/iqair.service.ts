@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { Logger } from '../config/logger';
 
 export class IQAirService {
   constructor() {}
@@ -16,6 +17,7 @@ export class IQAirService {
       }
       return {};
     } catch (error) {
+      Logger.error(error);
       return error;
     }
   }
@@ -33,6 +35,7 @@ export class IQAirService {
       }
       return {};
     } catch (error) {
+      Logger.error(error);
       return error;
     }
   }

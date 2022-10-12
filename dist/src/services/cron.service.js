@@ -10,6 +10,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.CronService = void 0;
+const logger_1 = require("../config/logger");
 const air_quality_model_1 = require("../models/air_quality.model");
 class CronService {
     saveData(data) {
@@ -19,6 +20,7 @@ class CronService {
                 return yield model.save();
             }
             catch (error) {
+                logger_1.Logger.error(error);
                 return error;
             }
         });
@@ -30,6 +32,7 @@ class CronService {
                 return data;
             }
             catch (error) {
+                logger_1.Logger.error(error);
                 return error;
             }
         });

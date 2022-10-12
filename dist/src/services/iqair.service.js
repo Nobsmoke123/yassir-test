@@ -14,6 +14,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.IQAirService = void 0;
 const axios_1 = __importDefault(require("axios"));
+const logger_1 = require("../config/logger");
 class IQAirService {
     constructor() { }
     getNearestCity(lat, long) {
@@ -28,6 +29,7 @@ class IQAirService {
                 return {};
             }
             catch (error) {
+                logger_1.Logger.error(error);
                 return error;
             }
         });
@@ -44,6 +46,7 @@ class IQAirService {
                 return {};
             }
             catch (error) {
+                logger_1.Logger.error(error);
                 return error;
             }
         });

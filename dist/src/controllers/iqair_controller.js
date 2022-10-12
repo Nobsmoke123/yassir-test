@@ -27,9 +27,9 @@ class IQAirController {
             const { lat, long } = req.params;
             const result = yield iqair_service.getNearestCity(lat, long);
             if (result instanceof Error) {
-                return res.status(500).json({
+                return res.status(504).json({
                     status: 'failed',
-                    message: result.message,
+                    message: 'Oops an error occured!',
                 });
             }
             return res.status(200).json({
@@ -43,9 +43,9 @@ class IQAirController {
         return __awaiter(this, void 0, void 0, function* () {
             const result = yield cron_service.getMostPollutedData();
             if (result instanceof Error) {
-                return res.status(500).json({
+                return res.status(504).json({
                     status: 'failed',
-                    message: result.message,
+                    message: 'Oops an error occured!',
                 });
             }
             const created_at = result.createdAt;

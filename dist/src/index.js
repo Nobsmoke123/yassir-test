@@ -13,10 +13,10 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const app_1 = __importDefault(require("./app"));
-const logger_1 = require("./config/logger");
-const db_connection_1 = require("./config/db_connection");
-const iqair_job_1 = require("./jobs/iqair.job");
 const dotenv_1 = __importDefault(require("dotenv"));
+const logger_1 = require("./config/logger");
+const iqair_job_1 = require("./jobs/iqair.job");
+const db_connection_1 = require("./config/db_connection");
 // Initialize configuration
 dotenv_1.default.config();
 // Set up DB connection
