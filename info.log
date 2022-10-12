@@ -1,0 +1,279 @@
+info: Server started on http://localhost:3000
+info: Starting the cron job >>>
+info: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: Database connected!
+info: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: Finished the cron job >>>
+info: Starting the cron job >>>
+info: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: Finished the cron job >>>
+info: Starting the cron job >>>
+info: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: Finished the cron job >>>
+info: Starting the cron job >>>
+info: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: Finished the cron job >>>
+info: Server started on http://localhost:3000
+info: Database connected!
+info: Starting the cron job >>>
+info: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+info: Finished the cron job >>>
+[32minfo[39m: Server started on http://localhost:3000
+[32minfo[39m: Database connected!
+[32minfo[39m: Starting the cron job >>>
+[32minfo[39m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[32minfo[39m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[32minfo[39m: Finished the cron job >>>
+[42m[32minfo[39m[49m: Server started on http://localhost:3000
+[42m[32minfo[39m[49m: Database connected!
+[42m[32minfo[39m[49m: Starting the cron job >>>
+[42m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[42m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[42m[32minfo[39m[49m: Finished the cron job >>>
+[47m[32minfo[39m[49m: Server started on http://localhost:3000
+[47m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":63,"aqius":86,"maincn":"p1","mainus":"p2","ts":"2022-10-12T10:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":58,"aqius":79,"maincn":"p1","mainus":"p2","ts":"2022-10-12T11:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":39,"aqius":82,"maincn":"p2","mainus":"p2","ts":"2022-10-12T13:00:00.000Z"}
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":39,"aqius":82,"maincn":"p2","mainus":"p2","ts":"2022-10-12T13:00:00.000Z"}
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":39,"aqius":82,"maincn":"p2","mainus":"p2","ts":"2022-10-12T13:00:00.000Z"}
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":39,"aqius":82,"maincn":"p2","mainus":"p2","ts":"2022-10-12T13:00:00.000Z"}
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":36,"aqius":55,"maincn":"p1","mainus":"p2","ts":"2022-10-12T13:00:00.000Z"}
+[40m[31merror[39m[49m: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/ {"reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-ahslaj-shard-0","stale":false,"type":"ReplicaSetNoPrimary"}}
+[40m[32minfo[39m[49m: Server started on http://localhost:3000
+[40m[32minfo[39m[49m: Database connected!
+[40m[32minfo[39m[49m: Starting the cron job >>>
+[40m[32minfo[39m[49m: The result of the axios is:  {"aqicn":36,"aqius":55,"maincn":"p1","mainus":"p2","ts":"2022-10-12T13:00:00.000Z"}
+[40m[32minfo[39m[49m: The result of the db response is:  {"aqicn":36,"aqius":55,"maincn":"p1","mainus":"p2","ts":"2022-10-12T13:00:00.000Z"}
+[40m[32minfo[39m[49m: Finished the cron job >>>
