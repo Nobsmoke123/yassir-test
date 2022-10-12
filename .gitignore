@@ -1,3 +1,11 @@
 node_modules
 node_modules
 .env
+
+#logs
+logs
+*.log
+
+# dotenv environment variable file
+.env
+.env.test
