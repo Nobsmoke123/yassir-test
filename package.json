@@ -4,15 +4,11 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "start": "tsc --watch && NODE_ENV=development nodemon dist/index.js",
-    "start-dev": "tsc && NODE_ENV=development nodemon dist/index.js",
-    "start-prod": "tsc && NODE_ENV=production nodemon dist/index.js",
+    "start": "tsc && NODE_ENV=development nodemon dist/index.js",
     "lint": "eslint . --ext .ts",
     "test": "jest"
   },
-  "keywords": [
-    "url-shortner"
-  ],
+  "keywords": [],
   "author": "Nobsmoke123",
   "license": "ISC",
   "devDependencies": {
